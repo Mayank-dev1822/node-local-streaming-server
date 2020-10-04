@@ -1,0 +1,29 @@
+.main-div {
+  text-align: center;
+  align-items: center;
+  padding: 50px 0px 0px 0px;
+}
+.table-main {
+  width: 100%;
+}
+tr td {
+  padding: 15px 0px 5px 0px;
+}
+.navbar-collapse{
+    text-align: left;
+}
+.pg-title{
+  text-align: center;
+}
+
+
+/* login page css */
+.security{
+  text-align: center;
+  padding: 20px 0px 10px 0px;
+}
+
+.login-fr{
+  width: 100%;
+  text-align: center;
+}
